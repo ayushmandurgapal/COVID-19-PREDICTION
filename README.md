@@ -1,4 +1,4 @@
-# COVID-19-PREDICTION
+# COVID-19 Data Analysis and Prediction 
 
 ### Overview
 
